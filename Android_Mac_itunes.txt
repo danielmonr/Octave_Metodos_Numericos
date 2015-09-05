@@ -1,0 +1,12 @@
+2 aplicaciones:
+
+1) compu
+debe abrir puerto de wifi
+debe conectarse con android
+debe pedir contraseña
+debe realizar las aciones de play, avanzar volumen (control de teclado)
+
+2) android
+debe enviar los comandos para activar las funciones de control
+debe conectarse con Mac.
+
